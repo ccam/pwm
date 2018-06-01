@@ -1,0 +1,7 @@
+master password is hashed and stored -- bcrypt
+store hashed pass in db check if entered pass's hash matches stored hash.
+sqlite for db
+sha256 encrypt everything else.
+
+
+https://stackoverflow.com/questions/18084595/how-to-decrypt-hash-stored-by-bcrypt
